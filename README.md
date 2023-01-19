@@ -1,6 +1,6 @@
 - 👋 Hello, I’m name is Adrian. Nice to meet you!
 - 👀 I’m a fellow graduate in Economics Science to started to learn coding out of curiosity and decided to focus on this area. Now I'm pursuing a Master's Degree in Informatics.
-- 🌱 I’m currently learning HTML, CSS & JavaScript.
+- 🌱 I’m currently learning programming, with a focus in web development, but open to futures oportunities.
 
 <!---
 savustefan/savustefan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
